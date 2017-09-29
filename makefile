@@ -6,6 +6,7 @@ dev: gittp
 
 setup:
 	go get -u github.com/golang/lint/golint
+	go get github.com/braintree/manners
 	go get -t -d -v ./...
 
 clean:
