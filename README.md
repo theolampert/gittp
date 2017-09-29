@@ -23,7 +23,7 @@ Available args:
 
 `-path`: Specify a file path where pushed repositories are stored. If this folder doesn't exist, gittp will create it for you
 
-`-masterOnly`: Only permit pushing to the master branch
+`-masteronly`: Only permit pushing to the master branch
 
 `-autocreate`: Auto create repositories if they have not been created
 
